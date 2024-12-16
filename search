@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search Bar</title>
+</head>
+
+<body>
+  <h1 </h1>
+    <div style="text-align: center; margin-top: 50px;">
+      <form action="/search" method="get">
+        <input type="text" name="query" placeholder="Search..."
+          style="padding: 10px; width: 300px; border: 2px solid #ccc; border-radius: 25px; font-size: 16px;">
+        <button type="submit"
+          style="padding: 10px 20px; border-color: yellow;border-width: 5px;border-style: solid; border-radius: 25px; background-color: #007bff; color: white; font-size: 16px; cursor: pointer;">
+          Search
+        </button>
+      </form>
+    </div>
+
+</body>
+
+</html>

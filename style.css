@@ -1,0 +1,36 @@
+li{
+    background-color: black;
+    color:gray;
+    display: inline;
+}
+
+ul{
+    background-color: black;  
+}
+.k{
+    padding-left: 600px;
+}
+li:hover{
+    color: white;
+}
+h1{
+    background-color: black;
+    color:white;
+    display: inline;
+}
+.kk{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    
+}
+.pro{
+    text-align: center;
+}
+.po{
+    text-align: center;
+}
+
